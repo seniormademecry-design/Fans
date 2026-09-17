@@ -1,0 +1,6 @@
+{
+  "name": "Aura - 18+ Creator Platform",
+  "description": "A secure, mobile-first 18+ creator subscription and private-content platform featuring age verification, creator KYC, transparent 10% commission, paid calls, wallet, and trust & safety.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
